@@ -1,0 +1,11 @@
+Start: Sun, 15 Feb 2015 12:44:21 -0800 
+End: Sun, 15 Feb 2015 12:45:27 -0800 
+Tasks: Removed vardump of post var 
+
+Start: Sun, 15 Feb 2015 08:01:35 -0800 
+End: Sun, 15 Feb 2015 12:44:21 -0800 
+Tasks: Implemented UI portion and satisfied all requirements
+
+Start: Sun, 14 Feb 2015 12:06:21 -0800 
+End: Sun, 14 Feb 2015 15:31:46 -0800 
+Tasks: Implemented database connection requirements and most needed database functions
