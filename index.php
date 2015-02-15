@@ -54,8 +54,6 @@
         return $videos;
     }
     
-    var_dump($_POST);
-    
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $action = $_POST["action"];
         switch ($action) {
@@ -76,7 +74,6 @@
         
         
     $videos = fetch_videos($db, $table_name, array_key_exists("category", $_GET) ? $_GET["category"] : "");
-    
 ?>
 
 <!DOCTYPE html>
